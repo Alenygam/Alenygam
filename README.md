@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on the docde project.
+- 🔭 I’m currently working on the trostact project.
 - 🌱 I’m currently learning React, Electron and Socket.io
 - ⚡ Fun fact: bad at algorithms.
 
