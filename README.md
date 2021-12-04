@@ -3,7 +3,7 @@
 I'm a 15 year old high school student in Italy.
 
 - 🌱 I’m currently learning Flutter and Dart
-- ⚡ Fun fact: bad at algorithms.
+- ⚡ Fun fact: bad at algorithms. (Improving every day!)
 - Open to collaborate on FOSS mobile projects!
 
 ## How to reach me
