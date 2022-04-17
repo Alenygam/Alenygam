@@ -2,9 +2,30 @@
 
 I'm a 15 year old high school student in Italy.
 
-- 🌱 I’m currently learning Flutter and Dart
-- ⚡ Fun fact: bad at algorithms. (Improving every day!)
-- Open to collaborate on FOSS mobile projects!
+- 🌱 I’m currently learning Algorithms and Data Structures
+- 🇮🇹 Competitive programmer
+- 💻 Linux user and Thinkpad fanatic
+- Open to collaborate on FOSS projects I find interesting!
+
+## Programming languages
+
+These are the programming languages I have experience in:
+
+- JavaScript
+- TypeScript
+- Dart
+- C/C++
+- Python
+
+## Technologies
+
+These are the technologies I have some level of experience with:
+
+- Node.js
+- Express
+- SQL
+- Apollo Server
+- Socket.io
 
 ## How to reach me
 
