@@ -32,6 +32,7 @@ These are the technologies I have some level of experience with:
 
 - E-mail: `alessandro@farcas.it`
 - Discord: `@alenygam`
+- Telegram: `@Alenygam`
 
 [![Alenygam's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alenygam&show_icons=true&theme=solarized-dark)](https://github.com/Alenygam)
 
