@@ -1,6 +1,6 @@
 ## Welcome!
 
-I'm a 18 year old high school student in Italy.
+I'm a 19 year old university student in Italy.
 
 - 🌱 I’m currently learning Algorithms and Data Structures
 - 🇮🇹 Competitive programmer
